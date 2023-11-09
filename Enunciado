@@ -1,0 +1,8 @@
+Crear una jerarquía de clases (mínimo 3)  de un escenario “real” en la que alguna de ellas implemente una interfaz. Pensar en un escenario que sea susceptible de modificación.
+Además, tenéis que hacer uso de:
+Una constante de clase
+Una variable estática que sea compartida por todas las instancias
+Una constante de instancia
+Crear instancias, interactuar con ellas y mostrar la salida.
+
+
